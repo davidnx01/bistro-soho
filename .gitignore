@@ -1,0 +1,25 @@
+# len web: index.html + použité obrázky
+/*
+!/.gitignore
+!/README.md
+!/index.html
+!/assets/
+/assets/*
+!/assets/dish-01-kuracie-tamarind-chilli.webp
+!/assets/dish-02-udon-kuracie-arasidova.webp
+!/assets/dish-03-polievka-kokosova-kuracie.webp
+!/assets/dish-04-edamame.webp
+!/assets/dish-05-cheesecake-kokosovy.webp
+!/assets/dish-06-sklenene-rezance-hovadzie.webp
+!/assets/dish-07-polievka-kokosova-tofu.webp
+!/assets/dish-08-torta-pistaciova.webp
+!/assets/dish-09-hovadzie-rebro-kimchi.webp
+!/assets/dish-10-kari-zelene-kuracie.webp
+!/assets/dish-11-ryzove-rezance-kuracie.webp
+!/assets/dish-12-kari-zelene-hovadzie.webp
+!/assets/dish-13-udon-hovadzie-pomarancova.webp
+!/assets/dish-14-kari-zelene-tofu.webp
+!/assets/dish-15-kari-zelene-krevety.webp
+!/assets/dish-16-kuracie-bazalka-chilli.webp
+!/assets/logo.webp
+!/assets/storefront.webp
